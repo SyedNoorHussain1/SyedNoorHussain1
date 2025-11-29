@@ -1,3 +1,4 @@
+![logo](https://github.com/SyedNoorHussain1/SyedNoorHussain1/blob/main/Gemini_Generated_Image_1l7y91l7y91l7y91.png)
 <h1 align="center">Hi 👋, I'm Syed Noor Hussain Shah</h1>
 <h3 align="center">Data Science Enthusiast | Machine Learning & Deep Learning Practitioner | Computer Vision & NLP Explorer from Pakistan</h3>
 
